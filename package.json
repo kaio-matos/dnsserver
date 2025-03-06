@@ -1,0 +1,11 @@
+{
+  "name": "dns-server",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dns2": "^2.1.0"
+  }
+}
